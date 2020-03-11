@@ -50,3 +50,7 @@ Recibe una petición via GET para insertar una ciuidad en la BD
 "ciudad" : "new york"
 }
 ```
+
+## Autores ✒️
+
+Camilo Caro
