@@ -1,13 +1,13 @@
 # conectionAPI
- Respositorio con 4 API
+ Repositorio con 4 API
 
-## Comenzando 🚀
+## Comenzando 
 
-_Este respositorio es un API a la cual se le pueden realizar 4 peticiones en Node.js._
+_Este repositorio es un API a la cual se le pueden realizar 4 peticiones en Node.js._
 
 Seguir las  **Instrucciones** para conocer como desplegar el proyecto.
 
-### API 📋
+### API 
 
 _API http://localhost:9000/cliente metodo POST_
 
@@ -103,6 +103,6 @@ Respuesta
 }
 ```
 
-## Autores ✒️
+## Autores 
 
 Camilo Caro
